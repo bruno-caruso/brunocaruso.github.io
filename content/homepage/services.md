@@ -1,10 +1,19 @@
 ---
-title: "Psicoterapia"
+title: "Como Funciona"
 weight: 2
 header_menu: true
 ---
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
+O atendimento online é uma prática de psicoterapia por meio das ferramentas eletrônicas atuais utilizando-se da internet. 
+
+São permitidos o atendimento online para maiores de 18 anos, ou menores de 18 anos com autorização dos pais ou responsáveis.
+
+Possuo autorização do Conselho Federal de Psicologia para realizar atendimentos Online, sem limite de sessões, por meio de meios tecnológicos.
+
+Tempo: a duração do atendimento é de 50 minutos.
+
+Sigilo: Todas as informações trocadas entre Psicólogo e Paciente são mantidas sobre o rigoroso sigilo terapêutico em cumprimento ao Código de Ética Profissional do Psicólogo, de acordo com a legislação vigente.
+
 
 ---
 
