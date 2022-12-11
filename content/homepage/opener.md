@@ -3,8 +3,17 @@ title: "Bem Vindo"
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
-
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+Olá! Seja bem-vinda(o) ao meu consultório Online. Um espaço dedicado ao que é mais importante em sua vida: VOCÊ! 
+As vezes podemos estar tão angustiados com alguma situação que fica até difícil conseguir descrever, por isso, para lhe ajudar, logo abaixo descrevo algumas das situações que são bastante comuns. Talvez você possa se identificar, e tudo bem se não, afinal cada pessoa é ÚNICA e estou aqui para lhe auxiliar. 
+*	Você perdeu a vontade para realizar as coisas que anteriormente eram prazerosas
+•	Falta energia ao final do dia. 
+•	Fica pensando em tudo que precisa fazer, planeja, pensa, repensa e quando se dá conta, acabou não executando nada do que gostaria.
+•	Seus pensamentos ficam acelerados e você querendo buscar soluções para tudo o que vem em sua mente (geralmente antes de dormir).
+•	Sente taquicardia, fica com a respiração acelerada, o medo começa a tomar conta e tudo parece que não dará certo.
+•	Percebe que a comida vem se tornando um recurso para lidar com os problemas.
+•	Dificuldades com seu peso, alimentação, necessidade contínua de comer, mesmo que não tenha fome.
+•	Inúmeras dietas, mas sempre recupera o peso perdido
+•	Grande dificuldade para lidar com perdas, encerramentos e/ou a morte de alguém querido. 
+Por mais desafiadoras e desgastantes que estes exemplos sejam, aqui vai uma boa notícia! Você não está só, e o melhor, HÁ SOLUÇÃO! 
+Fique à vontade para conhecer o site e falar comigo. Será um prazer estar contigo nesta jornada. 
+Conte comigo!
