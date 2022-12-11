@@ -4,10 +4,23 @@ weight: 3
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+![Bruno Caruso](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
 ##### Professionel Experience
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+Olá, sou Bruno Caruso, Psicólogo Clínico Especialista em Terapia Cognitivo Comportamental.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+Durante o desenvolvimento de meu trabalho, tive o prazer de atuar fortemente com Transtornos de Ansiedade e Depressivos, Transtornos alimentares, Atendimento a famílias pretendentes à adoção, atendimento familiar pós-adoção, Aconselhamento psicológico, entre outros.
+
+Realizo os atendimentos em meu consultório Online.
+
+Meus atendimentos online estão de acordo com a Resolução CFP 11/2018 e com protocolo válido na data vigente.
+CRP 06/144192
+
+##### Formação
+
+Psicólogo pela Universidade Cruzeiro do Sul
+
+Especialista em Terapia Cognitivo-Comportamental pelo Centro de Estudos em Terapia
+
+Cognitivo-Comportamental – CETCC
