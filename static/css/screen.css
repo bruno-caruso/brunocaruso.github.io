@@ -503,6 +503,7 @@ ul li {
   margin: 10px 0 10px 0;
   font-size: 5rem;
   letter-spacing: -1px;
+  color: #0e1828;
 }
 
 .blog-description {
@@ -512,6 +513,7 @@ ul li {
   font-weight: 400;
   font-family: "Roboto Slab", serif;
   letter-spacing: 0;
+  color: #0e1828;
 }
 
 .post-holder {
@@ -1110,4 +1112,3 @@ a.fn-item.active {
       below this point, or it will probably fuck everything up.
       ========================================================================== */
 
-      
