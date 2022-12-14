@@ -28,17 +28,3 @@ Cada convênio possui uma tabela de reembolso fixa para cada plano, a qual o usu
 
 
 ---
-
-## Seção 2
-
-Did you see the picture above? I can show you how to go from
-
-<!-- ![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg) -->
-
-to
-
-<!-- ![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg) -->
-
-in estimated seconds.
-
----
