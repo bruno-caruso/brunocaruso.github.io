@@ -4,26 +4,25 @@ weight: 2
 header_menu: true
 ---
 
-O atendimento online é uma prática de psicoterapia por meio das ferramentas eletrônicas atuais utilizando-se da internet. 
+O atendimento online é uma prática de psicoterapia por meio das ferramentas eletrônicas.
+São permitidos para maiores de 18 anos, ou menores de 18 anos com autorização dos pais ou responsáveis.
+**Habilitação:** Possuo autorização do Conselho Federal de Psicologia para realizar atendimentos Online (Cadastro e-Psi), sem limite de sessões, por meio de meios tecnológicos.
+**Tempo:** a duração do atendimento é de 50 minutos.
+**Sigilo:** Todas as informações trocadas entre Psicólogo e Paciente são mantidas sobre o rigoroso sigilo terapêutico em cumprimento ao Código de Ética Profissional do Psicólogo, de acordo com a legislação vigente.
 
-São permitidos o atendimento online para maiores de 18 anos, ou menores de 18 anos com autorização dos pais ou responsáveis.
-
-Possuo autorização do Conselho Federal de Psicologia para realizar atendimentos Online, sem limite de sessões, por meio de meios tecnológicos.
-
-Tempo: a duração do atendimento é de 50 minutos.
-
-Sigilo: Todas as informações trocadas entre Psicólogo e Paciente são mantidas sobre o rigoroso sigilo terapêutico em cumprimento ao Código de Ética Profissional do Psicólogo, de acordo com a legislação vigente.
 
 
 ---
 
-## Seção 1
+## Reembolso do valor de sessões
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+Em meu consultório os atendimentos são particulares. Porém, se você possui convênio médico, é possível o procedimento de reembolso.
 
-<!-- ![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg) -->
+Esse benefício vem se tornando muito usual para os usuários de planos de saúde, no intuito de realizar consultas com o profissional da saúde de sua preferência.
+Atualmente, os convênios são obrigados a reembolsar os valores de consultas particulares dos seus segurados, através da resolução nº 387 de 2015 da Agência Nacional de Saúde (ANS), dessa forma, não existem intermediários entre você e o seu psicólogo.
 
-Wow. That was nice, right? Well, call me and let us talk.
+Cada convênio possui uma tabela de reembolso fixa para cada plano, a qual o usuário tem o direito de saber. O valor reembolsado poderá ser uma porcentagem ou mesmo o valor total. Algumas operadoras chegam a reembolsar R$ 400,00 por sessão de psicoterapia.
+
 
 ---
 
