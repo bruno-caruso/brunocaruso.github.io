@@ -185,10 +185,10 @@ a:hover {
 
 a.btn {
   text-decoration: none;
-  background-color: #9fd067;
+  background-color: #c2c7c4;
   border-radius: 6px;
   -webkit-border-radius: 6px;
-  color: white;
+  color: #0e1828;
   display: inline-block;
   font-size: 16px;
   letter-spacing: 1px;
@@ -204,7 +204,7 @@ a.btn {
 }
 
 a.btn:hover {
-  background: #86c440;
+  background: #b1b5b2;
 }
 
 #header-arrow {
@@ -563,10 +563,10 @@ a.fn-item {
   color: white;
 }
 a.fn-item:hover {
-  color: #9fd067;
+  color: #0e1828;
 }
 a.fn-item.active {
-  color: #86c440;
+  color: #0e1828;
   opacity: 1;
 }
 
