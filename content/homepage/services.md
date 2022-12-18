@@ -5,7 +5,7 @@ header_menu: true
 ---
 
 O atendimento online é uma prática de psicoterapia por meio das ferramentas eletrônicas.
-São permitidos para maiores de 18 anos, ou menores de 18 anos com autorização dos pais ou responsáveis.
+É permitido para maiores de 18 anos, ou menores de 18 anos com autorização dos pais ou responsáveis.
 
 **Habilitação:** Possuo autorização do Conselho Federal de Psicologia para realizar atendimentos Online (Cadastro e-Psi), sem limite de sessões, por meio de meios tecnológicos.
 
