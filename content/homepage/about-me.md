@@ -20,3 +20,15 @@ CRP 06/144192
 Psicólogo pela Universidade Cruzeiro do Sul
 
 Especialista em Terapia Cognitivo-Comportamental pelo Centro de Estudos em Terapia Cognitivo-Comportamental – CETCC
+
+
+<!-- Google tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8PRN5ZRZ02">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8PRN5ZRZ02');
+</script>
