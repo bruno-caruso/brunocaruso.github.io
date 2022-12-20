@@ -9,3 +9,15 @@ header_menu: true
 {{<icon class="fa fa-phone">}}&nbsp;Whatsapp [+55 11 993037443](tel:+5511993037443)
 
 Vamos conversar!
+
+  
+<!-- Google tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8PRN5ZRZ02">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8PRN5ZRZ02');
+</script>
