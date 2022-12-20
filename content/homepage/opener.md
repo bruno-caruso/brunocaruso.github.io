@@ -28,3 +28,13 @@ Por mais desafiadoras e desgastantes que estes exemplos sejam, aqui vai uma boa 
 Fique à vontade para conhecer o site e falar comigo. Será um prazer estar contigo nesta jornada.
 
 Um abraço!
+<!-- Google tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8PRN5ZRZ02">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8PRN5ZRZ02');
+</script>
