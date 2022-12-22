@@ -14,6 +14,10 @@ title = "Psicólogo Bruno Caruso"
 
 googleAnalytics = "G-8PRN5ZRZ02"
 
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
@@ -41,4 +45,4 @@ googleAnalytics = "G-8PRN5ZRZ02"
     # hidedesignbyline = true
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "psicologo, bruno, caruso, depressao, ansiedade, psicologia, terapia"
