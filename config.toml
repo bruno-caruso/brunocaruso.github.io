@@ -14,9 +14,12 @@ title = "Psicólogo Bruno Caruso"
 
 googleAnalytics = "G-8PRN5ZRZ02"
 
-[markup.goldmark.parser.attribute]
-block = true
-title = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.

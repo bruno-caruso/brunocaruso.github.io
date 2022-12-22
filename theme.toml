@@ -34,3 +34,10 @@ min_version = "0.41.0"
   name = "GhostScroll"
   homepage = "https://github.com/grmmph/GhostScroll"
   repo = "https://github.com/grmmph/GhostScroll"
+
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
