@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Bruno Caruso](images/sobremim.jpeg){.imgavatar}
+{{< imgavatar title="Bruno Caruso" src="images/sobremim.jpeg" >}}
 
 
 ##### Experiência
