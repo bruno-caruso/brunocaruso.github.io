@@ -4,8 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-![Bruno Caruso](images/sobremim.jpeg "Bruno Caruso" class="imgavatar")
-![Faster](images/sobremim.jpeg "noMargin")
+![Bruno Caruso](images/sobremim.jpeg){.imgavatar}
 
 
 ##### Experiência
