@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-{{< figure src="/images/sobremim.jpg" title="Bruno Caruso" class="circular--portrait" >}}
+{{< figure src="images/sobremim.jpg" class="circular--portrait" >}}
 
 ##### Experiência
 
