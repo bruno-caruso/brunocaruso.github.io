@@ -4,7 +4,9 @@ weight: 3
 header_menu: true
 ---
 
+
 {{< imgavatar title="Bruno Caruso" src="images/sobremim.jpeg" >}}
+
 
 
 ##### Experiência
