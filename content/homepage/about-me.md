@@ -4,9 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-{{< figure src="images/sobremim.jpeg" class="circular--portrait" >}}
-
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+![Bruno Caruso](images/sobremim.jpeg "Bruno Caruso" class="imgavatar")
 
 ##### Experiência
 
