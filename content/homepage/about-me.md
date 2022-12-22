@@ -4,6 +4,8 @@ weight: 3
 header_menu: true
 ---
 
+{{< figure src="/images/sobremim.jpg" title="Bruno Caruso" class="circular--portrait" >}}
+
 ##### Experiência
 
 Olá, sou Bruno Caruso, Psicólogo Clínico Especialista em Terapia Cognitivo Comportamental.
