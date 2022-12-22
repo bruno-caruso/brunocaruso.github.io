@@ -530,8 +530,10 @@ ul li {
 .circular--portrait { 
   position: relative; 
   width: 200px; 
-  height: 200px; overflow: 
-  hidden; border-radius: 50%; 
+  height: 200px; 
+  overflow: 
+  hidden; 
+  border-radius: 50%; 
 } 
 
 .circular--portrait img { 
@@ -539,6 +541,10 @@ ul li {
   height: auto; 
 }
 
+.circular--portrait figure { 
+  width: 100%; 
+  height: auto; 
+}
 
 /* Every post, on every page, gets this style on its <article> tag */
 .post {
