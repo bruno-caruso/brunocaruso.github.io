@@ -5,6 +5,8 @@ header_menu: true
 ---
 
 ![Bruno Caruso](images/sobremim.jpeg "Bruno Caruso" class="imgavatar")
+![Faster](images/sobremim.jpeg "noMargin")
+
 
 ##### Experiência
 
