@@ -6,7 +6,7 @@ header_menu: true
 
 {{<icon class="fa fa-envelope">}}&nbsp;[psicologo.brunocaruso@gmail.com](mailto:psicologo.brunocaruso@gmail.com)
 
-{{<icon class="fa fa-phone">}}&nbsp;Whatsapp [+55 11 993037443](https://api.whatsapp.com/send/?phone=5511993037443&text&type=phone_number&app_absent=0)
+{{<icon class="fa fa-whatsapp">}}&nbsp;[+55 11 993037443](https://api.whatsapp.com/send/?phone=5511993037443&text&type=phone_number&app_absent=0)
 
 Vamos conversar!
 
