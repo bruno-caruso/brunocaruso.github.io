@@ -11,11 +11,10 @@ header_menu: true
 
 ##### Experiência
 
-Olá, sou Bruno Caruso, Psicólogo Clínico Especialista em Terapia Cognitivo Comportamental.
+Olá, sou Bruno Caruso, Psicólogo Clínico Especialista em Terapia Cognitivo Comportamental, considerada padrão ouro no tratamento de diferentes demandas.
 
 Durante o desenvolvimento de meu trabalho, tive o prazer de atuar fortemente com Transtornos de Ansiedade e Depressivos, Transtornos alimentares, Atendimento a famílias pretendentes à adoção, atendimento familiar pós-adoção, Aconselhamento psicológico, entre outros.
 
-Realizo os atendimentos em meu consultório Online.
 
 Meus atendimentos online estão de acordo com a Resolução CFP 11/2018 e com protocolo válido na data vigente.
 CRP 06/144192
